@@ -1,0 +1,10 @@
+C:\Users\leandro\source\repos\Curso\WebForms\WinFormsApp\bin\Debug\WinFormsApp.exe.config
+C:\Users\leandro\source\repos\Curso\WebForms\WinFormsApp\bin\Debug\WinFormsApp.exe
+C:\Users\leandro\source\repos\Curso\WebForms\WinFormsApp\bin\Debug\WinFormsApp.pdb
+C:\Users\leandro\source\repos\Curso\WebForms\WinFormsApp\obj\Debug\WinFormsApp.csproj.AssemblyReference.cache
+C:\Users\leandro\source\repos\Curso\WebForms\WinFormsApp\obj\Debug\WinFormsApp.Form1.resources
+C:\Users\leandro\source\repos\Curso\WebForms\WinFormsApp\obj\Debug\WinFormsApp.Properties.Resources.resources
+C:\Users\leandro\source\repos\Curso\WebForms\WinFormsApp\obj\Debug\WinFormsApp.csproj.GenerateResource.cache
+C:\Users\leandro\source\repos\Curso\WebForms\WinFormsApp\obj\Debug\WinFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\leandro\source\repos\Curso\WebForms\WinFormsApp\obj\Debug\WinFormsApp.exe
+C:\Users\leandro\source\repos\Curso\WebForms\WinFormsApp\obj\Debug\WinFormsApp.pdb

@@ -1,0 +1,5 @@
+C:\Users\leandro\source\repos\Curso\WebForms\ClasesInstituto\bin\Debug\ClasesInstituto.dll
+C:\Users\leandro\source\repos\Curso\WebForms\ClasesInstituto\bin\Debug\ClasesInstituto.pdb
+C:\Users\leandro\source\repos\Curso\WebForms\ClasesInstituto\obj\Debug\ClasesInstituto.csproj.CoreCompileInputs.cache
+C:\Users\leandro\source\repos\Curso\WebForms\ClasesInstituto\obj\Debug\ClasesInstituto.dll
+C:\Users\leandro\source\repos\Curso\WebForms\ClasesInstituto\obj\Debug\ClasesInstituto.pdb
